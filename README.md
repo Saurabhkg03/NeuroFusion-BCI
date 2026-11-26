@@ -29,7 +29,14 @@ The proposed Hybrid Fusion model significantly outperforms baseline approaches.
 | **Macro F1-Score** | `0.9686` |
 | **Cohen's Kappa** | `0.9583` |
 
-<img src="results/cnf1.png" alt="Confusion matrix - Hjorth" width="400">
+<p align="center">
+  <img src="results/cnf1.png" alt="First image" width="32%" />
+  <img src="results/cnf2.png" alt="Second image" width="32%" />
+  <img src="results/cnf3.png" alt="Third image" width="32%" />
+</p>
+<img src="results/bar.png" alt="Bar chart" width="400">
+
+
 
 
 
