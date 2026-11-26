@@ -34,7 +34,7 @@ The proposed Hybrid Fusion model significantly outperforms baseline approaches.
   <img src="results/cnf2.png" alt="Second image" width="32%" />
   <img src="results/cnf3.png" alt="Third image" width="32%" />
 </p>
-<img src="results/bar2.png" alt="Bar chart" width="400">
+<img src="results/bar2.png" alt="Bar chart" width="800">
 
 
 
