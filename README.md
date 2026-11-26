@@ -106,9 +106,9 @@ python evaluate.py --model_path models/best_hybrid_model.h5
 
 **Saurabh Gaikwad**
 
-* Portfolio: [Insert your website link here]
-* LinkedIn: [Insert LinkedIn link]
-* GitHub: [@yourusername](https://github.com/yourusername)
+* Portfolio: [saurabhgaikwad.in](https://saurabhgaikwad.in/)
+* LinkedIn: [Link](https://www.linkedin.com/in/saurabh-gaikwad-605a70228/)
+* GitHub: [@Saurabhkg03](https://github.com/Saurabhkg03)
 
 ## 📜 License
 
