@@ -56,7 +56,7 @@ The proposed Hybrid Fusion model significantly outperforms baseline approaches.
 1. **Clone the repository:**
    
 ```bash
-   git clone [https://github.com/yourusername/NeuroFusion-BCI.git](https://github.com/yourusername/NeuroFusion-BCI.git)
+   git clone [https://github.com/Saurabhkg03/NeuroFusion-BCI.git](https://github.com/Saurabhkg03/NeuroFusion-BCI.git)
    cd NeuroFusion-BCI
    
 
