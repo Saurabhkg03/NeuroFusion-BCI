@@ -4,6 +4,11 @@
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://www.tensorflow.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+## Publications📄
+My research paper on this project has been published in IEEE Xplore.
+- You can read the paper here:
+[IEEE Xplore Link](https://ieeexplore.ieee.org/document/11599979)
+
 ## 📌 Overview
 This repository contains the implementation of a high-performance Brain-Computer Interface (BCI) classification system. The project focuses on decoding 4-class motor imagery tasks (Left Hand, Right Hand, Foot, and Tongue) from raw EEG signals. 
 
